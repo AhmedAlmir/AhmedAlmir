@@ -1,47 +1,40 @@
-<div align="center">
-  <h1>Ahmed Mahmoud Elmer</h1>
-  <p><em>Data Engineer & AI / ML Student</em></p>
+<div align="center" width="50">
 
-  ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AhmedMahmoudElmer&style=flat&color=orange&label=PROFILE+VIEWS)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ahmedmahmoudelmer" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ahmedmahmoudelmer" alt="Workspace"  width="40%"/><br> 
+
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=ahmedmahmoudelmer&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmedmahmoudelmer&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/AhmedMahmoudElmer-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
----
+<hr></hr>
 
-## 🧰 Skills & Tools
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=artstation&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=flat&logo=seaborn&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat&logo=tableau&logoColor=white)
 
-### Programming & Data  
-- **Python** — Pandas, NumPy, Matplotlib, Seaborn  
-- **C++**  
+```dart
+// tools_I_use organized
 
-### Machine Learning & Data Engineering  
-- Machine Learning basics — model building, data preprocessing, analysis  
-- Data analysis & visualization (with Pandas, Matplotlib, Seaborn)  
-
-### Others  
-- Git / GitHub  
-- (أي أدوات إضافية تحب تضيفها لاحقاً)  
-
----
-
-## 🌐 Find me online
-
-- [LinkedIn](https://www.linkedin.com/in/ahmed-elmer-0139b0329?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- [Kaggle](https://www.kaggle.com/ahmedmahmoudelmer1)  
-
----
-
-## 📈 GitHub Stats
-
-<!-- يمكنك إضافة بطاقة إحصائيات GitHub هنا إذا ترغب -->
-
----
-
-## 💡 About Me
-
-I’m a Data Engineer & AI-student, passionate about turning raw data into meaningful insights.  
-I enjoy building ML models, analyzing datasets and visualizing results.  
-
-Currently studying AI, with knowledge in Python, C++, data analysis and ML basics.  
-
-If you’d like to collaborate on a project or discuss ideas — feel free to reach out!
-
+class About extends Me { 
+  const myTools = {  
+    "ProgrammingLanguages" : { "Python", "C++" },
+    "Libraries" : { "Pandas", "Numpy", "Matplotlib", "Seaborn" },
+    "Domain" : { "Machine Learning", "Data Analysis" }
+  };
+}
