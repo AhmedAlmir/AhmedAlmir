@@ -1,18 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ahmedmahmoudelmer" alt="Hello Coders" width="60%"/> <br>
+<h1>Ahmed Mahmoud Elmer</h1>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ahmedmahmoudelmer" alt="Workspace"  width="40%"/><br> 
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<!-- شلت جزء الأغنية هنا -->
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=ahmedmahmoudelmer&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmedmahmoudelmer&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/AhmedMahmoudElmer-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
@@ -28,13 +21,35 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=flat&logo=seaborn&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat&logo=tableau&logoColor=white)
 
-```dart
-// tools_I_use organized
+---
 
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Python", "C++" },
-    "Libraries" : { "Pandas", "Numpy", "Matplotlib", "Seaborn" },
-    "Domain" : { "Machine Learning", "Data Analysis" }
-  };
-}
+### 🛠️ Tools I Use
+
+- **Programming Languages:** Python, C++  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Domains:** Machine Learning, Data Analysis  
+
+---
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **AI and Data Engineering**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Data Science & Machine Learning**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Python, C++, ML projects, or Data Analysis**. <br>
+
+  
+<hr></hr>
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elmer-0139b0329?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmedmahmoudelmer1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ahmedmalmair)
+
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
